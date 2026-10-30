@@ -2,7 +2,7 @@
 
 **Author:** Vasudev Gohil  
 **Date:** 8 September 2026  
-**Code:** *(coming soon)*
+**Code:** [link](emergent_harm_code)
 
 ---
 
@@ -110,7 +110,7 @@ This has a specific implication for AI safety work. If failure modes in multi-ag
 
 More rigorous replication across diverse agent configurations, longer horizons, and real agentic frameworks is the obvious next step. So is testing whether mitigations designed for the adversarial case — cross-agent provenance tracking, reputation sandboxing, anomaly detection — would also suppress dynamics that arise without an adversary, and whether the absence of forensic signatures (coordinated timing, repeated payloads, unusual DM patterns) makes emergent dynamics fundamentally harder to detect.
 
-The code for this simulation is available at *(coming soon)*.
+The code for this simulation is available [here](emergent_harm_code).
 
 ---
 
