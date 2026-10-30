@@ -3,4 +3,4 @@ Studying how multi-agent AI security failure modes (reputation attacks, manufact
 
 **Blog post:** [emergent-harm.md](emergent-harm.md)
 
-**Code:** *(coming soon)*
+**Code:** [link](emergent_harm_code)
